@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salih\\OneDrive\\Masa\u00FCst\u00FC\\DERS\\2.s\u0131n\u0131f\\C#\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A222D6EB-1918-4300-AEE5-04E6397AA14A}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|c:\\users\\salih\\onedrive\\masa\u00FCst\u00FC\\ders\\2.s\u0131n\u0131f\\c#\\c#\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A222D6EB-1918-4300-AEE5-04E6397AA14A}|WindowsFormsApplication1\\WindowsFormsApplication1.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\salih\\OneDrive\\Masa\u00FCst\u00FC\\DERS\\2.s\u0131n\u0131f\\C#\\C#\\WindowsFormsApplication1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
+              "ToolTip": "C:\\Users\\salih\\OneDrive\\Masa\u00FCst\u00FC\\DERS\\2.s\u0131n\u0131f\\C#\\C#\\WindowsFormsApplication1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:16:58.748Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
